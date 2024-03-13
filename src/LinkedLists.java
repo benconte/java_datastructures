@@ -33,13 +33,6 @@ public class LinkedLists {
         System.out.println(last);
 
         System.out.println(linkedList);
-
-
-
-
-
-
-
     }
 }
 
